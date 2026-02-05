@@ -39,7 +39,7 @@ The project follows a structured Data Analytics lifecycle:
 ## 🛠 Tools & Technologies
 - **Python:** pandas, numpy, matplotlib, seaborn  
 - **Power BI:** Dashboard & KPI visualizations  
-- **Jupyter Notebook / Google Colab:** Development environment  
+- **Google Colab:** Development environment  
 - **Microsoft Word / PDF:** Final report documentation  
 
 ---
